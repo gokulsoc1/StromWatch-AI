@@ -1,1 +1,1 @@
-export const BACKEND_URL = 'http://10.167.254.234:5000'; // Replace with the actual numbers!
+export const BACKEND_URL = 'Replaced with your backend Ip or url'; // Replace with your backend Ip or url!
