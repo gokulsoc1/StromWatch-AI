@@ -25,7 +25,7 @@ key_path = os.path.join(BASE_DIR, "serviceAccountKey.json")
 MAX_DEPTH = 1000
 cred = credentials.Certificate(key_path)
 firebase_admin.initialize_app(cred, {
-    "databaseURL": "add your firebase url"
+    "databaseURL": "add your firebase url" \\add your database url
 })
 
 sensor_ref = db.reference("sensor")
