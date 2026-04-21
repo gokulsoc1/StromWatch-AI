@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "StormWatch AI",
+    "slug": "stormwatch-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.stormwatch.app",
+      "usesCleartextTraffic": true
+    },
+    "plugins": [
+      "expo-sharing"
+    ]
+  }
+}

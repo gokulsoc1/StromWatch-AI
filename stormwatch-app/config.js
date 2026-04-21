@@ -1,0 +1,1 @@
+export const BACKEND_URL = 'http://10.167.254.234:5000'; // Replace with the actual numbers!
