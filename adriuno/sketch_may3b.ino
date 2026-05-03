@@ -2,12 +2,12 @@
 #include <Firebase_ESP_Client.h>
 
 // ---------------- WIFI ----------------
-#define WIFI_SSID "17"      // ⚠️ Replace with your WiFi SSID
-#define WIFI_PASSWORD "987654321"
+#define WIFI_SSID "your_wifi_id"      // ⚠️ Replace with your WiFi SSID
+#define WIFI_PASSWORD "your_wifi_password"
 
 // ---------------- FIREBASE ----------------
-#define API_KEY "AIzaSyCX0gpXXCys0UeYk4YoLRzUn1xwm9Oluiw"
-#define DATABASE_URL "stromwatch-ai-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define API_KEY "firebase_api_key"
+#define DATABASE_URL "firebase_database_url"
 
 // Firebase objects
 FirebaseData fbdo;
